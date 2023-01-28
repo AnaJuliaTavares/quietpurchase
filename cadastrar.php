@@ -174,9 +174,9 @@ if($btnCadUsuario){
         <label>Cidade:
         <input name="cidade" type="text" id="cidade" placeholder="Digite o nome da cidade"size="20" /></label> <br><br>
         <label>Estado:
-        <input name="uf" type="text" id="uf" placeholder="Digite o nome do estado"size="20" /></label> <br> <br>
+        <input name="uf" type="text" id="uf" placeholder="Digite o nome do estado"size="20" /></label> <br> <br> <br>
     
-		<input type="submit" name="btnCadUsuario" value="Cadastrar" class="btn btn-success"><br><br>
+		<input type="submit" name="btnCadUsuario" value="Cadastrar" class="btn btn-sucess btn-block"><br>
 		<div class="row text-center" style="margin-top: 20px;"> 
 						Lembrou? <a href="login.php">Clique aqui</a> para logar
 					</div>
